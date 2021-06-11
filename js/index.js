@@ -73,7 +73,7 @@ opacity: 1.0
 $("#gridimagethree").css("opacity","1.0");
 
 
-$("#gridimagethre").hover(function () {
+$("#gridimagethree").hover(function () {
 
 
 $(this).stop().animate({
