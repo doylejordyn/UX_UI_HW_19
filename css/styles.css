@@ -37,6 +37,7 @@ li {
 	color:#ffffff;
 	font-size: 16px;
 	letter-spacing: 6px;
+	padding-bottom: 10px;
 }
 
 .heroimg img{
@@ -44,19 +45,21 @@ li {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	padding-bottom: 10px;
+	
 
 }
 
 .heroimg {
 	width: 100%;
 	height: 100px;
-	padding-top: 20%;
+	padding-top: 15%;
 	padding-bottom: 30%;
 	background-image:url("../images/GradientBackgroud.png");
 	background-size: cover;
 	background-repeat: no-repeat;}
 
-.content {width: 500px;
+.content {width: 700px;
 margin: 0 auto;}
 
 .button {
